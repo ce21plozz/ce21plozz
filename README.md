@@ -12,6 +12,6 @@ Hey there buddy!<br>I'm ce21plozz and you can call me ceplox for short if you wa
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->![](https://nirzak-streak-stats.vercel.app/?user=ce21plozz&theme=tokyonight&hide_border=false)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in ) -->

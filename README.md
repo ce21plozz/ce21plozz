@@ -9,9 +9,6 @@ Hey there buddy!<br>I'm ce21plozz and you can call me ceplox for short if you wa
 ![](https://nirzak-streak-stats.vercel.app/?user=ce21plozz&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ce21plozz&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ce21plozz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -23,7 +20,5 @@ Hey there buddy!<br>I'm ce21plozz and you can call me ceplox for short if you wa
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->![](https://nirzak-streak-stats.vercel.app/?user=ce21plozz&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ce21plozz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=ce21plozz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

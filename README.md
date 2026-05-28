@@ -10,7 +10,6 @@ Hey there buddy!<br>I'm ce21plozz and you can call me ceplox for short if you wa
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ce21plozz&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->![](https://nirzak-streak-stats.vercel.app/?user=ce21plozz&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ce21plozz&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
